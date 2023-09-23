@@ -19,3 +19,23 @@ Example 2-2
 Activity 3:
 
 ![image](https://github.com/arafatsyed/ECE444-F2023-Lab1/assets/55632837/e0bdcf86-1e23-474a-854c-d4c42ff387df)
+
+Activity 4:
+
+Starting page:
+
+![image](https://github.com/arafatsyed/ECE444-F2023-Lab1/assets/55632837/3be2bdca-b184-4af1-88a7-c5625f88eebf)
+
+Entering Arafat and arafat.syedshah@mail.utoronto.ca
+
+![image](https://github.com/arafatsyed/ECE444-F2023-Lab1/assets/55632837/8c5ea083-bb44-4ec3-8627-1ffa2d72b6f9)
+
+Entering Arafat Syed and arafat
+
+![image](https://github.com/arafatsyed/ECE444-F2023-Lab1/assets/55632837/50709de3-c96a-44a6-8e62-e4f13c66089a)
+
+Entering Arafat syed and arafat.syedshah@gmail.com
+
+![image](https://github.com/arafatsyed/ECE444-F2023-Lab1/assets/55632837/beacb5e5-711b-4fb6-bd53-ca3ac060c38a)
+
+
