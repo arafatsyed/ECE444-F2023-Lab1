@@ -21,3 +21,6 @@ Example 2-2
 
 ![image](https://github.com/arafatsyed/ECE444-F2023-Lab1/assets/55632837/7728d3d5-0d14-49de-8880-ad7c7d32fb5f)
 
+Activity 3:
+
+![image](https://github.com/arafatsyed/ECE444-F2023-Lab1/assets/55632837/e0bdcf86-1e23-474a-854c-d4c42ff387df)
