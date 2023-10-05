@@ -12,6 +12,7 @@ Activity 4:
 
 ![image](https://github.com/arafatsyed/ECE444-F2023-Lab1/assets/55632837/b5dc9eae-984c-4eb9-8429-7975fbd2366e)
 
-![image](https://github.com/arafatsyed/ECE444-F2023-Lab1/assets/55632837/cbe805b4-0ee1-454b-9d47-3bacdb814e6a)
+![image](https://github.com/arafatsyed/ECE444-F2023-Lab1/assets/55632837/dd081136-bbc9-4c88-ab7b-a2f41157a332)
+
 
 
